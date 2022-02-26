@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Custom
+ml-numbers
+ml-numbers.biases
+ml-numbers.weights
+
+# Vim
+*.swp
